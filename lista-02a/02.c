@@ -1,4 +1,4 @@
-// EXERCÍCIO 12
+// EXERCï¿½CIO 2
 #include <stdio.h>
 
 int main(){
@@ -13,7 +13,7 @@ int main(){
 		printf("MENU\n");
 		printf("1 - Numeros pares de 1 a 100\n");
 		printf("2 - Numeros impares 1 a 100\n");
-		printf("3 - Numeros divisíveis por 5 entre 1 a 100\n");
+		printf("3 - Numeros divisï¿½veis por 5 entre 1 a 100\n");
 		printf("4 - Parar\n");
 		printf("---------------\n");
 		printf("Escolha uma opcao: ");

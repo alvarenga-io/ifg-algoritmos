@@ -1,3 +1,5 @@
+// EXERCÍCIO 01"
+
 #include <stdio.h>
 #include <math.h>
 
@@ -10,7 +12,7 @@ int main() {
 		if(aux<9){
 			 printf("%d-",aux);
 		} else
-			printf("%d",aux);
+			printf("%d\n",aux);
 		aux = aux +1;
 	}
 	return 0;
