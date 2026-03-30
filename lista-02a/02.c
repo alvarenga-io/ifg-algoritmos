@@ -59,13 +59,13 @@ void numerosImpares(){
 }
 
 void divisiveisPor5(){
-	int quantidade;
+	int quantidade = 0;
 	printf("\n-----------------------------------------------------\n");
 	printf("Numeros divisiveis por 5 entre 1 e 100: \n");
 	for(int i= 1; i<=100; i++){
 		   if(i%5==0)	{
 		   	printf("%d ", i);
-		   	quantidade+=1;
+		   	quantidade = quantidade + 1;
 		   }
 	}
 	printf("\n-----------------------------------------------------\n");
